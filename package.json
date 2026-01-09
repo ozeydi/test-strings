@@ -1,0 +1,15 @@
+{
+  "name": "test-strings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node strings/index.js",
+    "test": "jest strings/test.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
